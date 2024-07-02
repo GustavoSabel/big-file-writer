@@ -1,0 +1,17 @@
+{
+  "name": "big-file-writer",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "scripts": {
+    "problema": "tsx src/problema/index.ts",
+    "solucao": "tsx src/solucao/index.ts"
+  },
+  "author": "Gustavo Sabel",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^20.14.9",
+    "tsx": "^4.16.0",
+    "typescript": "^5.5.3"
+  }
+}
