@@ -13,6 +13,6 @@ for (const line of bigArray) {
   if (pendentLines++ === 100_000) {
     pendentLines = 0;
     console.log(`Writing lines`);
-    await new Promise(setImmediate);
+    await new Promise(resolve => setTimeout(resolve, 0));
   }
 }
