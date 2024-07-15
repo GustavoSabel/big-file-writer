@@ -3,7 +3,7 @@ import { Repository } from "../repository";
 
 const bigArray = Repository.getBigArray();
 
-const file = await fs.promises.open("output.txt", "w");
+const file = await fs.promises.open("output-problema.txt", "w");
 
 const streamWriter = file.createWriteStream({ encoding: "utf-8" });
 

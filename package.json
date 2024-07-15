@@ -5,7 +5,9 @@
   "type": "module",
   "scripts": {
     "problema": "tsx src/problema/index.ts",
-    "solucao": "tsx src/solucao/index.ts"
+    "solucao": "tsx src/solucao1/index.ts",
+    "solucao1": "tsx src/solucao1/index.ts",
+    "solucao2": "tsx src/solucao2/index.ts"
   },
   "author": "Gustavo Sabel",
   "license": "ISC",
