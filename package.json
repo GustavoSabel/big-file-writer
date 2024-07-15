@@ -7,7 +7,8 @@
     "problema": "tsx src/problema/index.ts",
     "solucao": "tsx src/solucao1/index.ts",
     "solucao1": "tsx src/solucao1/index.ts",
-    "solucao2": "tsx src/solucao2/index.ts"
+    "solucao2": "tsx src/solucao2/index.ts",
+    "solucao3": "tsx src/solucao3/index.ts"
   },
   "author": "Gustavo Sabel",
   "license": "ISC",
